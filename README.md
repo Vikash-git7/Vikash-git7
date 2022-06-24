@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash-git7&label=Profile%20views&color=0e75b6&style=flat" alt="vikash-git7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikash-git7" alt="vikash-git7" /></a> </p>
-
 - 💬 Ask me about **Java, SrpingBoot, Javascript, Angular, Nodejs**
 
 - 📫 How to reach me **vikashkr7250@gmail.com**
